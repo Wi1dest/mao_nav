@@ -492,6 +492,13 @@ export const mockData = {
           "url": "https://halo.lozone.dpdns.org/",
           "description": "自己搭建的HALO博客",
           "icon": "https://halo.lozone.dpdns.org/upload/ICON.png"
+        },
+        {
+          "id": "site-1752920751700",
+          "name": "个人博客",
+          "url": "https://lozone.site/",
+          "description": "个人博客Springboot+Vue+MySql",
+          "icon": "/sitelogo/lozone.site.ico"
         }
       ]
     }

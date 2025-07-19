@@ -499,6 +499,20 @@ export const mockData = {
           "url": "https://lozone.site/",
           "description": "个人博客Springboot+Vue+MySql",
           "icon": "/sitelogo/lozone.site.ico"
+        },
+        {
+          "id": "site-1752920811111",
+          "name": "图床",
+          "url": "https://imgbed.lozone.dpdns.org/login",
+          "description": "我的图床",
+          "icon": "https://imgbed.lozone.dpdns.org/img/logo.e8dbfa27.png"
+        },
+        {
+          "id": "site-1752920845483",
+          "name": "订阅管理",
+          "url": "https://sb.lozone.dpdns.org/",
+          "description": "我的订阅管理系统",
+          "icon": "https://sb.lozone.dpdns.org/favicon.ico"
         }
       ]
     }

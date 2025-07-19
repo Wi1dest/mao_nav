@@ -513,6 +513,13 @@ export const mockData = {
           "url": "https://lozone.site/",
           "description": "个人博客Springboot+Vue+MySql",
           "icon": "https://i.ibb.co/0YLbtqc/icon.png"
+        },
+        {
+          "id": "site-1752921132064",
+          "name": "图床2",
+          "url": "https://pic.lozone.dpdns.org/",
+          "description": "我的图床2",
+          "icon": "/sitelogo/pic.lozone.dpdns.org.ico"
         }
       ]
     }

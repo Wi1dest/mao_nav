@@ -484,7 +484,7 @@ export const mockData = {
       "id": "category-1752920651202",
       "icon": "👥",
       "name": "自己搭的",
-      "order": 0,
+      "order": -1,
       "sites": [
         {
           "id": "site-1752920687575",
@@ -517,6 +517,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "Lo导航",
-  "_fileSha": "91edf41ce61eaf71f8c28a004d2ed0b7c6bdc24d"
+  "title": "猫猫导航"
 }

@@ -1,10 +1,53 @@
 export const mockData = {
   "categories": [
     {
+      "id": "category-1752920651202",
+      "icon": "👥",
+      "name": "自己搭的",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1752920687575",
+          "name": "HALO博客",
+          "url": "https://halo.lozone.dpdns.org/",
+          "description": "自己搭建的HALO博客",
+          "icon": "https://halo.lozone.dpdns.org/upload/ICON.png"
+        },
+        {
+          "id": "site-1752920811111",
+          "name": "图床",
+          "url": "https://imgbed.lozone.dpdns.org/login",
+          "description": "我的图床",
+          "icon": "https://imgbed.lozone.dpdns.org/img/logo.e8dbfa27.png"
+        },
+        {
+          "id": "site-1752920845483",
+          "name": "订阅管理",
+          "url": "https://sb.lozone.dpdns.org/",
+          "description": "我的订阅管理系统",
+          "icon": "https://sb.lozone.dpdns.org/favicon.ico"
+        },
+        {
+          "id": "site-1752920751700",
+          "name": "个人博客",
+          "url": "https://lozone.site/",
+          "description": "个人博客Springboot+Vue+MySql",
+          "icon": "https://i.ibb.co/0YLbtqc/icon.png"
+        },
+        {
+          "id": "site-1752921132064",
+          "name": "图床2",
+          "url": "https://pic.lozone.dpdns.org/",
+          "description": "我的图床2",
+          "icon": "/sitelogo/pic.lozone.dpdns.org.ico"
+        }
+      ]
+    },
+    {
       "id": "my-favorites",
       "name": "我的常用",
       "icon": "💥",
-      "order": 0,
+      "order": 1,
       "sites": [
         {
           "id": "linux-do",
@@ -47,7 +90,7 @@ export const mockData = {
       "id": "ai-tools",
       "name": "AI智能",
       "icon": "🤖",
-      "order": 1,
+      "order": 2,
       "sites": [
         {
           "id": "chatgpt",
@@ -90,7 +133,7 @@ export const mockData = {
       "id": "cloud",
       "name": "云服务",
       "icon": "☁️",
-      "order": 2,
+      "order": 3,
       "sites": [
         {
           "id": "cloudflare",
@@ -147,7 +190,7 @@ export const mockData = {
       "id": "dev-tools",
       "name": "开发工具",
       "icon": "🛠️",
-      "order": 3,
+      "order": 4,
       "sites": [
         {
           "id": "github",
@@ -197,7 +240,7 @@ export const mockData = {
       "id": "community",
       "name": "社区论坛",
       "icon": "👥",
-      "order": 6,
+      "order": 5,
       "sites": [
         {
           "id": "stackoverflow",
@@ -240,7 +283,7 @@ export const mockData = {
       "id": "design",
       "name": "设计工具",
       "icon": "🎨",
-      "order": 4,
+      "order": 6,
       "sites": [
         {
           "id": "figma",
@@ -276,7 +319,7 @@ export const mockData = {
       "id": "finance",
       "name": "财经投资",
       "icon": "💰",
-      "order": 5,
+      "order": 7,
       "sites": [
         {
           "id": "binance",
@@ -340,7 +383,7 @@ export const mockData = {
       "id": "learning",
       "name": "学习资源",
       "icon": "📚",
-      "order": 6,
+      "order": 8,
       "sites": [
         {
           "id": "mdn",
@@ -376,7 +419,7 @@ export const mockData = {
       "id": "tools",
       "name": "在线工具",
       "icon": "⚙️",
-      "order": 7,
+      "order": 9,
       "sites": [
         {
           "id": "json-formatter",
@@ -412,7 +455,7 @@ export const mockData = {
       "id": "entertainment",
       "name": "娱乐休闲",
       "icon": "🎮",
-      "order": 8,
+      "order": 10,
       "sites": [
         {
           "id": "bilibili",
@@ -448,7 +491,7 @@ export const mockData = {
       "id": "office",
       "name": "办公协作",
       "icon": "💼",
-      "order": 9,
+      "order": 11,
       "sites": [
         {
           "id": "notion",
@@ -479,51 +522,7 @@ export const mockData = {
           "icon": "/sitelogo/www.feishu.cn.ico"
         }
       ]
-    },
-    {
-      "id": "category-1752920651202",
-      "icon": "👥",
-      "name": "自己搭的",
-      "order": -1,
-      "sites": [
-        {
-          "id": "site-1752920687575",
-          "name": "HALO博客",
-          "url": "https://halo.lozone.dpdns.org/",
-          "description": "自己搭建的HALO博客",
-          "icon": "https://halo.lozone.dpdns.org/upload/ICON.png"
-        },
-        {
-          "id": "site-1752920811111",
-          "name": "图床",
-          "url": "https://imgbed.lozone.dpdns.org/login",
-          "description": "我的图床",
-          "icon": "https://imgbed.lozone.dpdns.org/img/logo.e8dbfa27.png"
-        },
-        {
-          "id": "site-1752920845483",
-          "name": "订阅管理",
-          "url": "https://sb.lozone.dpdns.org/",
-          "description": "我的订阅管理系统",
-          "icon": "https://sb.lozone.dpdns.org/favicon.ico"
-        },
-        {
-          "id": "site-1752920751700",
-          "name": "个人博客",
-          "url": "https://lozone.site/",
-          "description": "个人博客Springboot+Vue+MySql",
-          "icon": "https://i.ibb.co/0YLbtqc/icon.png"
-        },
-        {
-          "id": "site-1752921132064",
-          "name": "图床2",
-          "url": "https://pic.lozone.dpdns.org/",
-          "description": "我的图床2",
-          "icon": "/sitelogo/pic.lozone.dpdns.org.ico"
-        }
-      ]
     }
   ],
-  "title": "Lo导航",
-  "_fileSha": "30efaebfb78b18125a9e8f554201c8f204896c2b"
+  "title": "猫猫导航"
 }

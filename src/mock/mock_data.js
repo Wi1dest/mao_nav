@@ -479,8 +479,22 @@ export const mockData = {
           "icon": "/sitelogo/www.feishu.cn.ico"
         }
       ]
+    },
+    {
+      "id": "category-1752920651202",
+      "icon": "👥",
+      "name": "自己搭的",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1752920687575",
+          "name": "HALO博客",
+          "url": "https://halo.lozone.dpdns.org/",
+          "description": "自己搭建的HALO博客",
+          "icon": "https://halo.lozone.dpdns.org/upload/ICON.png"
+        }
+      ]
     }
   ],
-  "title": "Lo导航",
-  "_fileSha": "13033ef8146e5277c2c80cdda9f5987c0a8cdc88"
+  "title": "猫猫导航"
 }

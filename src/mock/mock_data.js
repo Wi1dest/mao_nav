@@ -71,18 +71,11 @@ export const mockData = {
           "icon": "/sitelogo/github.com.ico"
         },
         {
-          "id": "curlconverter",
-          "name": "curl converter",
-          "url": "https://curlconverter.com/",
-          "description": "curl命令转换工具",
-          "icon": "/sitelogo/curlconverter.com.ico"
-        },
-        {
-          "id": "site-1752857783656",
-          "name": "Deepseek",
-          "url": "https://deepseek.com",
-          "description": "好用的国产模型",
-          "icon": "/sitelogo/deepseek.com.ico"
+          "id": "chatgpt",
+          "name": "ChatGPT",
+          "url": "https://chat.openai.com",
+          "description": "OpenAI对话AI助手",
+          "icon": "/sitelogo/chat.openai.com.ico"
         }
       ]
     },
@@ -92,13 +85,6 @@ export const mockData = {
       "icon": "🤖",
       "order": 2,
       "sites": [
-        {
-          "id": "chatgpt",
-          "name": "ChatGPT",
-          "url": "https://chat.openai.com",
-          "description": "OpenAI对话AI助手",
-          "icon": "/sitelogo/chat.openai.com.ico"
-        },
         {
           "id": "claude",
           "name": "Claude",
@@ -197,6 +183,13 @@ export const mockData = {
           "url": "https://www.dogyun.com/",
           "description": "",
           "icon": "/sitelogo/www.dogyun.com.ico"
+        },
+        {
+          "id": "site-1752939932488",
+          "name": "实用的VPS选购指南",
+          "url": "https://vpsls.com/",
+          "description": "实用的VPS选购指南",
+          "icon": "https://vpsls.com/vpslog.png"
         }
       ]
     },
@@ -538,6 +531,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "Lo导航",
-  "_fileSha": "65e30cc6f256f86d2a8eced40761ffbee8a9f10d"
+  "title": "Lo导航"
 }

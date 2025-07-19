@@ -183,6 +183,20 @@ export const mockData = {
           "url": "https://www.pasyun.com/",
           "description": "ipv6机器",
           "icon": "/sitelogo/www.pasyun.com.ico"
+        },
+        {
+          "id": "site-1752921573903",
+          "name": "RackNerd",
+          "url": "https://my.racknerd.com/",
+          "description": "RN",
+          "icon": "/sitelogo/my.racknerd.com.ico"
+        },
+        {
+          "id": "site-1752921594968",
+          "name": "狗云",
+          "url": "https://www.dogyun.com/",
+          "description": "",
+          "icon": "/sitelogo/www.dogyun.com.ico"
         }
       ]
     },

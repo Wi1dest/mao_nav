@@ -76,6 +76,13 @@ export const mockData = {
           "url": "https://chat.openai.com",
           "description": "OpenAI对话AI助手",
           "icon": "/sitelogo/chat.openai.com.ico"
+        },
+        {
+          "id": "site-1753004951322",
+          "name": "Gemini",
+          "url": "https://gemini.google.com/app/ccee3522e9b6ae90",
+          "description": "",
+          "icon": "/sitelogo/gemini.google.com.ico"
         }
       ]
     },

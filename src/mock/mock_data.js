@@ -204,6 +204,20 @@ export const mockData = {
           "url": "https://vpsls.com/",
           "description": "实用的VPS选购指南",
           "icon": "https://vpsls.com/vpslog.png"
+        },
+        {
+          "id": "site-1753518356863",
+          "name": "ITDOG",
+          "url": "https://www.itdog.cn/ping/",
+          "description": "",
+          "icon": "/sitelogo/www.itdog.cn.ico"
+        },
+        {
+          "id": "site-1753518493016",
+          "name": "ping0",
+          "url": "https://ping0.cc/",
+          "description": "",
+          "icon": "https://ping0.cc/favico.ico?v=3114792759"
         }
       ]
     },

@@ -40,6 +40,13 @@ export const mockData = {
           "url": "https://pic.lozone.dpdns.org/",
           "description": "我的图床2",
           "icon": "/sitelogo/pic.lozone.dpdns.org.ico"
+        },
+        {
+          "id": "site-1753517236310",
+          "name": "TV影视",
+          "url": "https://tv.lozone.dpdns.org/",
+          "description": "",
+          "icon": "/sitelogo/tv.lozone.dpdns.org.ico"
         }
       ]
     },

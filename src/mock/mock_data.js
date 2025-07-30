@@ -47,6 +47,13 @@ export const mockData = {
           "url": "https://tv.lozone.dpdns.org/",
           "description": "",
           "icon": "/sitelogo/tv.lozone.dpdns.org.ico"
+        },
+        {
+          "id": "site-1753885410825",
+          "name": "libretv",
+          "url": "https://libretv.lozone.dpdns.org/",
+          "description": "",
+          "icon": "https://libretv.lozone.dpdns.org/image/logo.png"
         }
       ]
     },

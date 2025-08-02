@@ -232,13 +232,6 @@ export const mockData = {
           "url": "https://cloudcone.com/",
           "description": "",
           "icon": "/sitelogo/cloudcone.com.ico"
-        },
-        {
-          "id": "site-1754122354491",
-          "name": "racknerd",
-          "url": "https://www.racknerd.com/",
-          "description": "",
-          "icon": "/sitelogo/www.racknerd.com.ico"
         }
       ]
     },

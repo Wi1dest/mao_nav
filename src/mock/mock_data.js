@@ -225,6 +225,20 @@ export const mockData = {
           "url": "https://ping0.cc/",
           "description": "",
           "icon": "https://ping0.cc/favico.ico?v=3114792759"
+        },
+        {
+          "id": "site-1754122326057",
+          "name": "cloudcone",
+          "url": "https://cloudcone.com/",
+          "description": "",
+          "icon": "/sitelogo/cloudcone.com.ico"
+        },
+        {
+          "id": "site-1754122354491",
+          "name": "racknerd",
+          "url": "https://www.racknerd.com/",
+          "description": "",
+          "icon": "/sitelogo/www.racknerd.com.ico"
         }
       ]
     },

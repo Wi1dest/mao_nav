@@ -54,6 +54,13 @@ export const mockData = {
           "url": "https://libretv.lozone.dpdns.org/",
           "description": "",
           "icon": "https://libretv.lozone.dpdns.org/image/logo.png"
+        },
+        {
+          "id": "site-1754224952161",
+          "name": "CF版博客",
+          "url": "https://lozone.qzz.io/",
+          "description": "",
+          "icon": "https://i.ibb.co/gPJczVT/lo-20241208134611.webp"
         }
       ]
     },

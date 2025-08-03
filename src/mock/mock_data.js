@@ -68,6 +68,13 @@ export const mockData = {
           "url": "https://notepad.lozone.qzz.io/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1754240292108",
+          "name": "图片裁剪",
+          "url": "http://pic.lozone.qzz.io/",
+          "description": "",
+          "icon": ""
         }
       ]
     },

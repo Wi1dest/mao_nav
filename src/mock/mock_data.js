@@ -61,6 +61,13 @@ export const mockData = {
           "url": "https://lozone.qzz.io/",
           "description": "",
           "icon": "https://i.ibb.co/gPJczVT/lo-20241208134611.webp"
+        },
+        {
+          "id": "site-1754227324364",
+          "name": "简约写字板",
+          "url": "https://notepad.lozone.qzz.io/",
+          "description": "",
+          "icon": ""
         }
       ]
     },

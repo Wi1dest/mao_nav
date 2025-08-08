@@ -75,6 +75,13 @@ export const mockData = {
           "url": "http://pic.lozone.qzz.io/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1754674514322",
+          "name": "个人导航",
+          "url": "https://ix.loarea.ggff.net",
+          "description": "",
+          "icon": ""
         }
       ]
     },
